@@ -1,0 +1,1 @@
+In this project I'm going to build a basic landing page. I will be using basic HTML and CSS skills such as: Using HTML elements, styling the webpage with CSS, and making use of flexbox.
